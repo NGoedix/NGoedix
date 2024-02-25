@@ -7,6 +7,5 @@
 </div>
 
 ## Projects
-* [LapamanLauncher](https://github.com/NGoedix/LapamanLauncherMC) - Custom minecraft launcher with mods and auto-update
-* [WhatsApp 2](https://github.com/NGoedix/Whatsapp2) - Sockets communication chat in full swing ~ Future with battle pass
-* [Kaillut](https://github.com/NGoedix/Kaillut) (Under development) - A learning platform through a series of games currently in development
+* [KEngine](https://github.com/LapamanStudio/KEngine) - 2D Game engine to create your own games
+* [VideoPlayer](https://github.com/NGoedix/VideoPlayer) - Minecraft mod that helps many people to play videos in minecraft
